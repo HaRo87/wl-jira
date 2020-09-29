@@ -1,0 +1,7 @@
+pytest
+pytest-cov
+pylint
+snapshottest
+sphinx>=3.2.0,<4
+sphinx_rtd_theme
+black
